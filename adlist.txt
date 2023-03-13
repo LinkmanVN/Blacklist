@@ -1,0 +1,6 @@
+#Adblock
+
+criteo.net
+udom.net
+exactag.com
+tagm.tschibo.de
